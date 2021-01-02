@@ -1,5 +1,5 @@
 {
-  "name": "ecurve",
+  "name": "@jafri/ecurve",
   "version": "1.0.6",
   "description": "Elliptic curve cryptography",
   "keywords": [
